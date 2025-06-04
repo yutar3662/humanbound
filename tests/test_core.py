@@ -1,0 +1,9 @@
+"""Open-source adversarial testing engine, SDK, and CLI for AI """
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
