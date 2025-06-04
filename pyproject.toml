@@ -1,0 +1,5 @@
+[project]
+name = "humanbound"
+version = "0.1.0"
+description = "Open-source adversarial testing engine, SDK, and CLI for AI agents. Runs locally or against the Humanbound Platform."
+requires-python = ">=3.10"
